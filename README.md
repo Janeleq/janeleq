@@ -3,7 +3,7 @@ Welcome 😊
 - 🌱 I’m currently learning and working on web technologies ~
 - 👯 Feel free to visit my portfolio at: https://janeleq-portfolio.vercel.app/
 
-<img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="430" height="450"/>
+<img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="330" height="380"/>
 
 **🐱 My GitHub Data**
 <a href="https://github.com/janeleq/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=janeleq&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Jane's github stats" /></a>
