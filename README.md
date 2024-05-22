@@ -5,6 +5,7 @@ Welcome 😊
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="330" height="380"/>
 
 **🐱 My GitHub Data**
+<br />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Janeleq&theme=dark&hide_border=true" width="400">
 <br />
 <a href="https://github.com/janeleq/github-readme-stats">
